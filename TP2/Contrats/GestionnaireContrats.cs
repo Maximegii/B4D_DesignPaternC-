@@ -10,7 +10,7 @@
         }
 
         
-        private void InitialiserPrototypes()
+        private void InitialiserPrototypes() 
         {
             
             var habitationStandard = new ContratHabitation
